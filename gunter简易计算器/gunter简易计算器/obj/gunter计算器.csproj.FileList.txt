@@ -1,0 +1,8 @@
+bin\Debug\gunter计算器.exe
+bin\Debug\gunter计算器.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\gunter计算器.Form1.resources
+obj\Debug\gunter计算器.Properties.Resources.resources
+obj\Debug\gunter计算器.csproj.GenerateResource.Cache
+obj\Debug\gunter计算器.exe
+obj\Debug\gunter计算器.pdb
